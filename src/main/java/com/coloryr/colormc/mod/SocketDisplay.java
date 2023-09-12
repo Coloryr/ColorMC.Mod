@@ -130,6 +130,7 @@ public class SocketDisplay {
     }
 
     public void finish() {
+        System.out.println("SocketDisplay finish");
         done = true;
     }
 }
