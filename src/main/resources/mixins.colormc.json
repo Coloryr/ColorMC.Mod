@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.coloryr.colormc.mod.mixins",
+  "mixins": [],
+  "client": [
+    "MixinStart"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
